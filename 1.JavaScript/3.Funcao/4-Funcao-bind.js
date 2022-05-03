@@ -21,3 +21,5 @@ function person() {
     console.log(self.idade)
   }, 1000)
 };
+
+new person
